@@ -29,6 +29,6 @@ Archivos incluidos:
 
 - README con instrucciones y descripción
 
-- Licencia (MIT/GPL/otra)
+- Licencia (MIT/GPL)
 
 - gitignore para ignorar archivos temporales o compilados
